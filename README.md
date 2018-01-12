@@ -32,7 +32,7 @@ The `IDML\Package` object is essentially a file manager/server of `DOMDocument` 
 That's most of what this class does.
 
     $spreads = $idml->getSpreads();
-    $storyu12a = $idml->getStorie("u12a");
+    $storyu12a = $idml->getStory("u12a");
     $backingStory = $idml->getBackingStory();
     // etc
 
