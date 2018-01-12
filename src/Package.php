@@ -387,7 +387,7 @@ class Package {
      * @param $key
      * @return DOMElement|null
      */
-    public function getStorie($key) {
+    public function getStory($key) {
         if (array_key_exists($key, $this->stories)) {
             return $this->stories[$key];
         }
