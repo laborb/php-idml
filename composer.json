@@ -1,5 +1,5 @@
 {
-	"name": "prometee/php-idml",
+	"name": "laborb/php-idml",
 	"description": "A simple class to handle file management of Adobe InDesign IDML files.",
 	"type": "library",
 	"license": "MIT",
